@@ -10,6 +10,19 @@ This is a backup of the live version of the test, which previously existed at [h
 - Yiheng Wei
 
 ### Included Files:
+- group8results.sql - recreate the results table for the project. Does not contain any data/survey results
+- web-root (directory) - contains all of the files for the website
+
+### System Requirements:
+In theory, this website should work on any webserver with the LAMP or WAMP stack - it uses PHP and mySQL to function. 
+
+The website was previously hosted on [Bluehost](https://www.bluehost.com/). It was running the following software and versions:
+
+- PHP version: 7.3.27
+- Database client version: libmysql - 5.6.43
+- PHP extensions: mysqli, curl, mbstring
+- phpMyAdmin: version 4.9.5
+
 
 ## Assignment Brief:
 
